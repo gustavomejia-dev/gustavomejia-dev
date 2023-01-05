@@ -44,7 +44,7 @@
   
   
   <a href = "mailto:gustavo_mejia@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-xavier-442956217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavoanalistadesenvolvimentodesistemas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     
    ![Snake animation](https://github.com/ViniciusSXavier999/ViniciusSXavier999/blob/output/github-contribution-grid-snake.svg)
