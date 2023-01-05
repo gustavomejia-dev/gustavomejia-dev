@@ -17,7 +17,7 @@
 
   
 <div>
-  <a href="https://github.com/ViniciusSXavier999">
+  <a href="https://github.com/gustavomejia-dev">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSXavier999&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSXavier999&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
@@ -28,8 +28,8 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h2 align="center">  Minhas Habilidades :computer: </h2>
-    <img align="center" alt="java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  
+  
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
