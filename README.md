@@ -5,7 +5,7 @@
 - 📚 Atualmente estou cursando Tecnologia em Análise e desenvolvimento de sistemas pela [FATEC-SP]:computer:
 
 - 🏡 Sou de São paulo, brasil.
-- 📫 How to reach me: gustavomejiadev@gmail.com
+- 📫 How to reach me: gustavo_mejia@outlook.com.br
 - 😄 Pronouns: ele/dele/he
 
   <div align="center">
