@@ -19,7 +19,7 @@
 <div  align="center" style="margin-bottom:100px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomejia-dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomejia-dev&hide_progress=true)
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavomejia-dev&theme=radical&mode=weekly" />
  </div>
   
  
