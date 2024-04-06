@@ -7,6 +7,10 @@
 - 🏡 Sou de São paulo, brasil.
 - 📫 How to reach me: gustavo_mejia@outlook.com.br
 - 😄 Pronouns: ele/dele/he
+Sou estudante em ADS e tenho muito interesse por Programação, atualmente estou trabalhando em uma empresa como DESENVOLVEDOR WEB,<br> utilizando o framework Codeigniter, junto com Jquery e Bootstrap, sou responsavel por adicionar novas funcionalidades, criação de interfaces e correção de bugs dentro do software (CRM).<br>
+Tambem estou trabalhando em um outro projeto da empresa que é o desenvolvimento de um novo CRM <br>utilizando REACT E LARAVEL(REST API), estou participando de todo o ciclo da aplicação desde o planejamento ao desenvolvimento do software
+
+
 
   <div align="center">
   
