@@ -18,7 +18,7 @@
   
 <div  align="center" style="margin-bottom:100px">
 
-<img width=40% align="center" src="https://github-readme-stats-git-main-gustavomejia-dev.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomejia-dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
  </div>
   
  
