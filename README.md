@@ -4,12 +4,14 @@
 
 - 📚 Atualmente estou cursando Tecnologia em Análise e desenvolvimento de sistemas pela [FATEC-SP]
 
-- 🏡 Sou de São paulo, brasil.
+- 🏡 Sou de São paulo, Brasil.
 - 📫 How to reach me: gustavo_mejia@outlook.com.br
 - 😄 Pronouns: ele/dele/he
-  <br>
-Sou estudante em ADS e tenho muito interesse por Programação, atualmente estou trabalhando em uma empresa como DESENVOLVEDOR WEB,<br> utilizando o framework Codeigniter, junto com Jquery e Bootstrap, sou responsavel por adicionar novas funcionalidades, criação de interfaces e correção de bugs dentro do software (CRM).<br>
-Tambem estou trabalhando em um outro projeto da empresa que é o desenvolvimento de um novo CRM <br>utilizando REACT E LARAVEL(REST API), estou participando de todo o ciclo da aplicação desde o planejamento ao desenvolvimento do software
+<br>
+<br>
+
+Atualmente estou trabalhando em uma empresa como Desenvolvedor Web, utilizando o Framework Codeigniter, junto com Jquery e Bootstrap, sou responsavel por adicionar novas funcionalidades, criação de interfaces e correção de bugs dentro do software (CRM).<br>
+Tambem estou trabalhando em um outro projeto da empresa que é o desenvolvimento de um novo CRM <br>utilizando React &  Laravel, estou participando de todo o ciclo da aplicação desde o planejamento ao desenvolvimento do software
 
 
 
@@ -29,7 +31,8 @@ Tambem estou trabalhando em um outro projeto da empresa que é o desenvolvimento
  <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    #### Principais Stacks:
+    
+   ###<h1>Principais Stacks: </h1>  
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -42,7 +45,7 @@ Tambem estou trabalhando em um outro projeto da empresa que é o desenvolvimento
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-#### Stacks Secundarias:
+### Stacks Secundarias:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
@@ -56,17 +59,17 @@ Tambem estou trabalhando em um outro projeto da empresa que é o desenvolvimento
   
   <a href="https://www.linkedin.com/in/gustavoanalistadesenvolvimentodesistemas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-   #### Estudando no Momento:
+   ### Estudando no Momento:
  
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
   
-      #### Workstation Tools:
-
+    
+  ### Ambiente de Desenvolvimento:
   ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   </div>  
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1419ff&height=120&section=footer"/>
