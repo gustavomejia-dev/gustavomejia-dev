@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1419ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Gustavo+Mejia;Eu+tenho+23+anos;Eu+sou+do+Brasil;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-- 📚 Atualmente estou cursando Tecnologia em Análise e desenvolvimento de sistemas pela [FATEC-SP]:computer:
+- 📚 Atualmente estou cursando Tecnologia em Análise e desenvolvimento de sistemas pela [FATEC-SP]
 
 - 🏡 Sou de São paulo, brasil.
 - 📫 How to reach me: gustavo_mejia@outlook.com.br
@@ -45,7 +45,6 @@
   </div>
    
   ##  Como chegar até mim 📫
-  
   
   
   <a href="https://www.linkedin.com/in/gustavoanalistadesenvolvimentodesistemas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
