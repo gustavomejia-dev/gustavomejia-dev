@@ -17,9 +17,7 @@
 
   
 <div  align="center" style="margin-bottom:100px">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomejia-dev&show_icons=true&theme=dark)
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gustavomejia-dev&show_icons=true&theme=radical&layout=compact" />
+  <img width=100% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gustavomejia-    dev&show_icons=true&theme=radical&layout=compact" />
  </div>
   
  
