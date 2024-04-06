@@ -18,7 +18,8 @@
   
 <div  align="center" style="margin-bottom:100px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomejia-dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomejia-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomejia-dev&hide_progress=true)
  </div>
   
  
