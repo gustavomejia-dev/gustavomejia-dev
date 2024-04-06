@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1419ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1419ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Gustavo+Mejia;Eu+tenho+21+anos;Eu+sou+do+Brasil;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1419ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Gustavo+Mejia;Eu+tenho+23+anos;Eu+sou+do+Brasil;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 - 📚 Atualmente estou cursando Tecnologia em Análise e desenvolvimento de sistemas pela [FATEC-SP]:computer:
 
@@ -49,10 +49,16 @@
   
   <a href="https://www.linkedin.com/in/gustavoanalistadesenvolvimentodesistemas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+   #### Studying in this moment:
   ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+
+
   
-      
+      #### Workstation Tools:
+
+  ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
   </div>  
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1419ff&height=120&section=footer"/>
